@@ -106,6 +106,20 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
+          "id": "site-1756313782925",
+          "name": "其乐 Keylol",
+          "url": "https://keylol.com",
+          "description": "原蒸汽动力社区，现为国内正版玩家据点之一，也是Steam中文用户聚集地之一",
+          "icon": ""
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
           "id": "nodeseek",
           "name": "NodeSeek",
           "url": "https://www.nodeseek.com",
@@ -125,13 +139,6 @@ export const mockData = {
           "url": "https://stackoverflow.com",
           "description": "程序员问答社区",
           "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
         }
       ]
     },
