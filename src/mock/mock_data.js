@@ -7,25 +7,11 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
           "description": "Linux技术社区，Peace and Love",
           "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
         },
         {
           "id": "github",
@@ -35,11 +21,25 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
+          "id": "site-1752857783656",
+          "name": "OpenAI",
+          "url": "https://chatgpt.com",
+          "description": "OpenAI,好用👌",
+          "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1752649007053",
+          "name": "BeJson",
+          "url": "https://www.bejson.com/",
+          "description": "工具大全",
+          "icon": "/sitelogo/www.bejson.com.ico"
         }
       ]
     },
@@ -49,6 +49,12 @@ export const mockData = {
       "icon": "🤖",
       "order": 1,
       "sites": [
+        {
+          "id": "site-1756281782686",
+          "name": "Gemini",
+          "url": "https://gemini.google.com",
+          "description": "白嫖的就是最香的！双子星yyds("
+        },
         {
           "id": "chatgpt",
           "name": "ChatGPT",
@@ -133,13 +139,6 @@ export const mockData = {
           "url": "https://www.huaweicloud.com",
           "description": "华为云计算服务",
           "icon": "/sitelogo/www.huaweicloud.com.ico"
-        },
-        {
-          "id": "site-1752644060499",
-          "name": "怕死云",
-          "url": "https://www.pasyun.com/",
-          "description": "ipv6机器",
-          "icon": "/sitelogo/www.pasyun.com.ico"
         }
       ]
     },
@@ -200,13 +199,6 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
           "id": "linuxdo",
           "name": "Linux.do",
           "url": "https://linux.do",
@@ -226,6 +218,13 @@ export const mockData = {
           "url": "https://www.v2ex.com",
           "description": "创意工作者社区",
           "icon": "/sitelogo/www.v2ex.com.ico"
+        },
+        {
+          "id": "stackoverflow",
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "description": "程序员问答社区",
+          "icon": "/sitelogo/stackoverflow.com.ico"
         },
         {
           "id": "52pojie",
@@ -481,7 +480,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "DARK导航",
-  "search": "bing",
-  "_fileSha": "3e32499fd88fe787537b9ce08b18612375673d4f"
+  "title": "DARK导航"
 }
