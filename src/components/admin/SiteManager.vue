@@ -575,7 +575,7 @@ const tryFallbackServices = async (domain) => {
   // 支持多个favicon服务轮询尝试
   const iconServiceUrls = [
     // `https://www.faviconextractor.com/favicon/${domain}`,
-    `https://icon.bqb.cool/${domain}`
+    `https://icon.bqb.cool/?url=${domain}`
   ]
 
   for (const iconServiceUrl of iconServiceUrls) {
