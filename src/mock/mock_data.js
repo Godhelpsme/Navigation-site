@@ -53,7 +53,8 @@ export const mockData = {
           "id": "site-1756281782686",
           "name": "Gemini",
           "url": "https://gemini.google.com",
-          "description": "白嫖的就是最香的！双子星yyds("
+          "description": "白嫖的就是最香的！双子星yyds(",
+          "icon": "https://icon.bqb.cool/?url=https://gemini.google.com/"
         },
         {
           "id": "chatgpt",
@@ -110,7 +111,7 @@ export const mockData = {
           "name": "其乐 Keylol",
           "url": "https://keylol.com",
           "description": "原蒸汽动力社区，现为国内正版玩家据点之一，也是Steam中文用户聚集地之一",
-          "icon": ""
+          "icon": "https://icon.bqb.cool/?url=https://keylol.com/"
         },
         {
           "id": "52pojie",
