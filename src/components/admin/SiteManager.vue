@@ -464,7 +464,7 @@ const downloadAndCacheIcon = async (iconUrl, domain) => {
   // 优先尝试fetch直接下载
   try {
     const response = await fetch(iconUrl, {
-      mode: 'cors',
+      mode: 'no-cors',
       credentials: 'omit',
       headers: {
         'Accept': 'image/*,*/*;q=0.8'
