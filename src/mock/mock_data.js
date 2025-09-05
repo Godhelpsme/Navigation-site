@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://www.bejson.com/",
           "description": "工具大全",
           "icon": "/sitelogo/www.bejson.com.ico"
+        },
+        {
+          "id": "site-1757085783171",
+          "name": "CloudPaste",
+          "url": "https://cp.zhmc.tech",
+          "description": "在线剪贴板",
+          "icon": ""
         }
       ]
     },
