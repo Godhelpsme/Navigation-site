@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "my-favorites",
       "name": "我的常用",
-      "icon": "🌐",
+      "icon": "💥",
       "order": 0,
       "sites": [
         {
@@ -21,6 +21,13 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
+          "id": "site-1758217321500",
+          "name": "其乐Keylol",
+          "url": "https://keylol.com",
+          "description": "",
+          "icon": "https://icon.bqb.cool/?url=https://keylol.com/"
+        },
+        {
           "id": "site-1752857783656",
           "name": "OpenAI",
           "url": "https://chatgpt.com",
@@ -28,18 +35,18 @@ export const mockData = {
           "icon": "/sitelogo/chatgpt.com.ico"
         },
         {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
-        },
-        {
           "id": "site-1757085783171",
           "name": "CloudPaste",
           "url": "https://cp.zhmc.tech",
           "description": "在线剪贴板",
           "icon": ""
+        },
+        {
+          "id": "curlconverter",
+          "name": "curl converter",
+          "url": "https://curlconverter.com/",
+          "description": "curl命令转换工具",
+          "icon": "/sitelogo/curlconverter.com.ico"
         }
       ]
     },
