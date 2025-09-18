@@ -117,7 +117,7 @@ export const mockData = {
           "id": "site-1756313782925",
           "name": "其乐 Keylol",
           "url": "https://keylol.com",
-          "description": "原蒸汽动力社区，现为国内正版玩家据点之一，也是Steam中文用户聚集地之一",
+          "description": "原蒸汽动力社区，Steam中文用户聚集地之一",
           "icon": "https://icon.bqb.cool/?url=https://keylol.com/"
         },
         {
